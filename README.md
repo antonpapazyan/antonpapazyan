@@ -1,7 +1,7 @@
 # Anton Papazyan
 Hi there 👋 I'm Anton.
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brylie&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antonpapazyan&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
