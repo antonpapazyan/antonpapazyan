@@ -7,7 +7,7 @@ Hi there 👋 I'm Anton.
 
 I'm a software developer from Armenia 🇦🇲
 
-- 💻 I’m currently working at [ProximusDA](www.proximusda.com)
+- 💻 I’m currently working at [ProximusDA](https://www.proximusda.com)
 - 🔥 I’m currently learning Blockchain and Smart Contract Security
 - ✨ I’m looking to collaborate on freelance projects
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anton-papazyan-718512147)
